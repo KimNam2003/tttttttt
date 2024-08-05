@@ -1,1 +1,15 @@
-test Kim Nam
+các bước tạo project trên github
+-tạo clone project bằng : git clone "link "
+-git status : kiểm tra trạng thái các file
+-git add
+-git commit -m "nội dung "
+git push origin main
+--------------
+Tạo 1 project và đẩy lên GitHub -
+-git init
+-viết code
+-git status
+git add .
+git commit 
+git remote add origin http://...
+-git push origin master
